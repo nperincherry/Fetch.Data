@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(quantmod)\n\ngetSymbols('ibm')",
+    "created" : 1463407568090.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1187199553",
+    "id" : "7496EB8D",
+    "lastKnownWriteTime" : 1463407625,
+    "last_content_update" : 1463407625541,
+    "path" : "~/GitHub/Fetch.Data/Source.R",
+    "project_path" : "Source.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
